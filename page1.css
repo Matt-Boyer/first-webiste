@@ -1,0 +1,25 @@
+.links  {
+    display: flex;
+    justify-content: space-between;
+}
+
+.superCool  {
+    display: flex;
+    justify-content: center;
+}
+
+p   {
+    text-indent: 20px;
+}
+
+.greekPic{
+    max-width: 100%;
+    height: 200px;
+    background-image: url("https://previews.123rf.com/images/miluxian/miluxian1707/miluxian170700094/83151678-statue-of-zeus-in-rome-italy.jpg");
+
+}
+
+.greekPic2  {
+    max-width: 100%;
+    height: 200px;
+}
