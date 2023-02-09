@@ -6,7 +6,8 @@ img    {
 }
 
 .labels {
-
+    display: grid;
+    justify-content: center;
 }
 
 .cutePics   {
@@ -17,7 +18,8 @@ img    {
 
 p   {
     margin-bottom: 3px;
-
+    margin-top: 3px;
+    justify-self: center;
 }
 
 .links  {
